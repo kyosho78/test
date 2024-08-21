@@ -1,0 +1,7 @@
+/* app/static/css/styles.css */
+body {
+    background-image: url("/static/images/background.png");
+    background-size: cover; /* Cover the whole page */
+    background-repeat: no-repeat; /* Prevent tiling */
+    background-attachment: fixed; /* Background stays fixed during scroll */
+}
